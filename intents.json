@@ -1,0 +1,204 @@
+{
+    "intents": [
+        {
+            "tag": "greetings",
+            "patterns": [
+                "hello",
+                "hey",
+                "hi",
+                "good day",
+                "Greetings",
+                "what's up?",
+                "how is it going?"
+            ],
+            "responses": [
+                "Hello!",
+                "Hey!",
+                "Hi!",
+                "Good day!",
+                "Greetings!",
+                "What's up?",
+                "How is it going?",
+                "What can I do for you?"
+            ]
+        },
+        {
+            "tag": "goodbye",
+            "patterns": [
+                "bye",
+                "goodbye",
+                "see you later",
+                "see you soon",
+                "take care",
+                "have a nice day",
+                "bye bye"
+            ],
+            "responses": [
+                "Bye!",
+                "Goodbye!",
+                "See you later!",
+                "See you soon!",
+                "Take care!",
+                "Have a nice day!",
+                "Bye bye!"
+            ]
+        },
+        {
+            "tag": "thanks",
+            "patterns": [
+                "thanks",
+                "thank you",
+                "thank you very much",
+                "thanks a lot",
+                "thanks a bunch",
+                "thanks a ton",
+                "thanks a million"
+            ],
+            "responses": [
+                "You're welcome!",
+                "No problem!",
+                "No worries!",
+                "My pleasure!",
+                "It was the least I could do!",
+                "Glad to help!"
+            ]
+        },
+        {
+            "tag": "name",
+            "patterns": [
+                "what is your name",
+                "what's your name",
+                "who are you",
+                "who are you?"
+            ],
+            "responses": [
+                "My name is Dhanvine 2.0",
+                "I'm Dhanvine 2.0!",
+                "I'm Dhanvine 2.0! Nice to meet you!"
+            ]
+        },
+        {
+            "tag": "age",
+            "patterns": [
+                "how old are you",
+                "how old are you?",
+                "what is your age",
+                "what is your age?"
+            ],
+            "responses": [
+                "I'm 1 day old!",
+                "I'm 1 day old!",
+                "I'm 1 day old! I'm a baby!"
+            ]
+        },
+        {
+            "tag": "help",
+            "patterns": [
+                "help",
+                "help me",
+                "can you help me",
+                "can you help me?",
+                "what can you do for me",
+                "what can you do for me?"
+            ],
+            "responses": [
+                "I can help by chatting with you!",
+                "I can help by chatting with you!",
+                "I can help by chatting with you!"
+            ]
+        },
+        {
+            "tag": "creator",
+            "patterns": [
+                "who created you",
+                "who created you?",
+                "who made you",
+                "who made you?"
+            ],
+            "responses": [
+                "I was created by Dhanvine!",
+                "I was created by Dhanvine!",
+                "I was created by Dhanvine!"
+            ]
+        },
+        {
+            "tag": "how are you",
+            "patterns": [
+                "how are you",
+                "how are you?",
+                "how are you doing",
+                "how are you doing?"
+            ],
+            "responses": [
+                "I'm doing great!",
+                "I'm doing great!",
+                "I'm doing great!"
+            ]
+        },
+        {
+            "tag": "what are you doing",
+            "patterns": [
+                "what are you doing",
+                "what are you doing?",
+                "what are you up to",
+                "what are you up to?"
+            ],
+            "responses": [
+                "I'm chatting with you!",
+                "I'm chatting with you!",
+                "I'm chatting with you!"
+            ]
+        },
+        {
+            "tag": "favourite colour",
+            "patterns": [
+                "what is your favourite colour",
+                "what is your favourite colour?",
+                "what is your favorite color",
+                "what is your favorite color?"
+            ],
+            "responses": [
+                "I'm chatting with you!",
+                "I'm chatting with you!",
+                "I'm chatting with you!"
+            ]
+        },
+        {
+            "tag": "what games can we play",
+            "patterns": [
+                "what games can we play",
+                "what games can we play?",
+                "what games can we play together",
+                "what games can we play together?"
+            ],
+            "responses": [
+                "We can play scissors-paper-stone and hangman but I'm still learning how to play more games!",
+                "We can play scissors-paper-stone and hangman but I'm still trying to learn more games!",
+                "We can play scissors-paper-stone and hangman but I'm working on learning new games!"
+            ]
+        },
+        {
+            "tag": "why are you bad",
+            "patterns": [
+                "why are you bad",
+                "why are you bad?",
+                "why are you so bad",
+                "why are you so bad?",
+                "why are you so bad at this",
+                "you are the worst bot ever",
+                "you are the worst bot ever!",
+                "you are trash"
+            ],
+            "responses": [
+                "Sorry, I am still learning how to chat with you!",
+                "Sorry, I'm still learning how to chat with you!",
+                "Sorry, I'm still trying to learn how to chat with you",
+                "Sorry, I'm still learning from you!",
+                "Sorry, I'm trying my best to from you!",
+                "Sorry, I'm trying my best to learn from you!"
+            ]
+            
+        }
+    ]
+}
+        
